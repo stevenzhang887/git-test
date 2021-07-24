@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("4444444");
         System.out.println("4444444--hot-fix");
         System.out.println("5555555-master");
+        System.out.println("6666666-github-edit");
     }
 }
